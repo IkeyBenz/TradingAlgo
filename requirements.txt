@@ -15,7 +15,7 @@ pgmpy==0.1.9
 pluggy==0.13.0
 post==2019.4.13
 public==2019.4.13
-py==1.8.0
+py==1.10.0
 pycodestyle==2.5.0
 pylint==2.4.2
 pyparsing==2.4.4
