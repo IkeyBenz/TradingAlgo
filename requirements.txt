@@ -9,7 +9,7 @@ lazy-object-proxy==1.4.2
 mccabe==0.6.1
 more-itertools==7.2.0
 numpy==1.17.4
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 packaging==19.2
 pgmpy==0.1.9
 pluggy==0.13.0
